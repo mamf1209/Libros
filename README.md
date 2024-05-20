@@ -15,6 +15,8 @@ genero: Almacena el género del libro, también como un String.
 
 editorial: El nombre de la editorial que publicó el libro.
 
+![Code de la clase libro](https://raw.githubusercontent.com/mamf1209/libros/main/libro.jpg)
+
 ## Clase LibroController.java
 La clase LibroController es responsable de manejar las solicitudes relacionadas con los libros en nuestra aplicación. Esto incluye la gestión de la lógica de negocio relacionada con los libros, como la creación, edición, eliminación y búsqueda de libros.
 ## Clase LibroService.java
